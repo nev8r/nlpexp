@@ -1,1 +1,2 @@
  hf download --repo-type dataset qwedsacf/competition_math --local-dir ./data/competition_math
+

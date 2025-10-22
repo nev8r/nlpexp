@@ -1,0 +1,3 @@
+model_path: /root/nlpexp/outputs/lora_rank32_lr5e-5/checkpoint-220-merged
+dataset_size: 1187
+accuracy: 0.431340
